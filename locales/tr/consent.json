@@ -1,15 +1,9 @@
 {
     "cookie_consent": {
-        "title": "Bu site çerez kullanıyor",
-        "description": "Size daha iyi bir deneyim sunmak için çerezler ve analitik araçlar kullanıyoruz.",
-        "accept": "Kabul Et",
-        "decline": "Reddet",
-        "settings": "Ayarlar",
-        "necessary": "Zorunlu Çerezler",
-        "necessary_desc": "Site işlevselliği için gerekli, devre dışı bırakılamaz.",
-        "analytics": "Analitik Çerezler",
-        "analytics_desc": "Site kullanımını anlamamıza yardımcı olur.",
-        "save_preferences": "Tercihleri Kaydet",
-        "privacy_link": "Gizlilik Politikası"
+        "title": "Çerez Bildirimi",
+        "description": "Sistemimiz sadece çalışmak için zorunlu olan temel çerezleri kullanır.",
+        "accept": "Anlaşıldı",
+        "privacy_link": "Gizlilik Politikası",
+        "cookie_link": "Çerez Politikası"
     }
 }

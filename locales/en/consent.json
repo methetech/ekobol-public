@@ -1,15 +1,9 @@
 {
     "cookie_consent": {
-        "title": "This site uses cookies",
-        "description": "We use cookies and analytics tools to provide you with a better experience.",
-        "accept": "Accept",
-        "decline": "Decline",
-        "settings": "Settings",
-        "necessary": "Necessary Cookies",
-        "necessary_desc": "Required for site functionality, cannot be disabled.",
-        "analytics": "Analytics Cookies",
-        "analytics_desc": "Help us understand site usage.",
-        "save_preferences": "Save Preferences",
-        "privacy_link": "Privacy Policy"
+        "title": "Cookie Notice",
+        "description": "We use only strictly necessary cookies ensuring the system functions correctly.",
+        "accept": "Understood",
+        "privacy_link": "Privacy Policy",
+        "cookie_link": "Cookie Policy"
     }
 }
